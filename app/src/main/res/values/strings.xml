@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan 3 121140197</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ini adalah isi dari suatu fragment yang telah dibuat</string>
+    <string name="isi">Isi Fragment</string>
+    <string name="btn">Tampilkan</string>
+</resources>
